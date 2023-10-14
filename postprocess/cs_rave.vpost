@@ -13,15 +13,15 @@
 			{
 				m_blendMode = "BLOOM_BLEND_SCREEN"
 				m_flBloomStrength = 1.998
-				m_flScreenBloomStrength = 0.1261
+				m_flScreenBloomStrength = 0.3674
 				m_flBlurBloomStrength = 1.0
-				m_flBloomThreshold = 2.842
+				m_flBloomThreshold = 1.565
 				m_flBloomThresholdWidth = 1.661
 				m_flSkyboxBloomStrength = 1.0
 				m_flBloomStartValue = 1.0
 				m_flBlurWeight = 
 				[
-					0.1999, 0.1999, 0.1999, 0.1999,
+					0.2831, 0.1999, 0.1999, 0.1999,
 					0.5234,
 				]
 				m_vBlurTint = 
@@ -43,7 +43,7 @@
 			m_params = 
 			{
 				m_flExposureBias = 0.0
-				m_flShoulderStrength = 0.15
+				m_flShoulderStrength = 0.1963
 				m_flLinearStrength = 0.5
 				m_flLinearAngle = 0.1
 				m_flToeStrength = 0.2
