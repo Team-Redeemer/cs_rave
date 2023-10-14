@@ -21,7 +21,7 @@
 				}
 			]
 			"m_bPassThroughToCompiledVtex" "bool" "0"
-			"m_n3DSliceCount" "int" "72"
+			"m_n3DSliceCount" "int" "48"
 			"m_n3DSliceWidth" "int" "20"
 			"m_n3DSliceHeight" "int" "12"
 		}
