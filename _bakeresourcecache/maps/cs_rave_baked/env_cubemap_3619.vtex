@@ -6,7 +6,7 @@
 		"CDmeInputTexture"
 		{
 			"m_name" "string" "inputTexture0"
-			"m_fileName" "string" "_bakeresourcecache/maps/cs_rave_baked/env_cubemap_2487.exr"
+			"m_fileName" "string" "_bakeresourcecache/maps/cs_rave_baked/env_cubemap_3619.exr"
 			"m_colorSpace" "string" "linear"
 			"m_typeString" "string" "CUBE"
 			"m_imageProcessorArray" "element_array"

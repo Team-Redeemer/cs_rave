@@ -6,7 +6,7 @@
 		"CDmeInputTexture"
 		{
 			"m_name" "string" "inputTexture0"
-			"m_fileName" "string" "_bakeresourcecache/maps/cs_rave_baked/env_light_probe_volume_2488.exr"
+			"m_fileName" "string" "_bakeresourcecache/maps/cs_rave_baked/env_light_probe_volume_3600.exr"
 			"m_colorSpace" "string" "linear"
 			"m_fileExt" "string" ""
 			"m_nMinBitsPerChannel" "int" "-1"

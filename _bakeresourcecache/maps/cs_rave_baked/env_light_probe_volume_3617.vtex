@@ -6,7 +6,7 @@
 		"CDmeInputTexture"
 		{
 			"m_name" "string" "inputTexture0"
-			"m_fileName" "string" "_bakeresourcecache/maps/cs_rave_baked/env_light_probe_volume_2454.exr"
+			"m_fileName" "string" "_bakeresourcecache/maps/cs_rave_baked/env_light_probe_volume_3617.exr"
 			"m_colorSpace" "string" "linear"
 			"m_fileExt" "string" ""
 			"m_nMinBitsPerChannel" "int" "-1"
@@ -21,9 +21,9 @@
 				}
 			]
 			"m_bPassThroughToCompiledVtex" "bool" "0"
-			"m_n3DSliceCount" "int" "48"
-			"m_n3DSliceWidth" "int" "8"
-			"m_n3DSliceHeight" "int" "12"
+			"m_n3DSliceCount" "int" "24"
+			"m_n3DSliceWidth" "int" "4"
+			"m_n3DSliceHeight" "int" "4"
 		}
 	]
 	"m_outputTypeString" "string" "3D"
